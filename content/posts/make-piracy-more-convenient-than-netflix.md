@@ -4,7 +4,7 @@ description:
 date: 2024-09-21
 # tldr: (optional)
 # draft: true/false (optional)
-tags: [piracy, convenience]
+tags: [piracy]
 toc: true
 ---
 
