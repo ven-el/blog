@@ -15,15 +15,15 @@ toc: true
 - has a built-in search option
 - searches 5 trackers for torrents
 
-![](1.png)
+![](/1.png)
 
-![](2.jpg)
+![](/2.jpg)
 
-![](3.png)
+![](/3.png)
 
 - click check for update
 
-![](pic-selected-240921-1553-45.png)
+![](/pic-selected-240921-1553-45.png)
 
 ## cons
 - limited trackers
@@ -33,14 +33,14 @@ toc: true
 - cloudflare solverr
 - support for proxy
 
-![](prowlarr1.png)
+![](/prowlarr1.png)
 
 # why you should signup for private trackers
 - some stuff you can only find on private trackers
 
-![](ygg1.png)
+![](/ygg1.png)
 
-![](ygg2.png)
+![](/ygg2.png)
 
 - ygg for francophone content
 - arapp2p for arab content
