@@ -44,7 +44,8 @@ toc: true
 
 - ygg for francophone content
 - arapp2p for arab content
-
+# music
+- soulseek (nicotine+)
 # books
 - zlibrary
 - myanonamouse (private tracker)
