@@ -42,4 +42,4 @@ toc: true/false (optional)
    git add content/posts/your-post-file.md static/images/your-folder-name/your-image-file.jpg
    git commit -m "Add your post title"
    ```
-8. Push and Create a Pull Request: Push your changes and create a pull request on the original repository.
+8. Push and Create a Pull Request.
