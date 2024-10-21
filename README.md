@@ -16,6 +16,7 @@
    ```
 4. Add Your Blog Post: Create a new Markdown file in the content/posts/ directory. Use the following front template at the top of your file:
 
+```
 ---
 title: Title of the post
 description:
@@ -25,6 +26,7 @@ draft: true/false (optional)
 tags: [tag names] (optional)
 toc: true/false (optional)
 ---
+```
 
 5. Add Images: Place any images you want to include in your blog post in the static/ directory. You can organize them into subdirectories as needed. For example, you might create a folder like static/your-folder-name/.
 
