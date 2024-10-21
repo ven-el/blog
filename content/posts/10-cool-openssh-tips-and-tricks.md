@@ -1,7 +1,7 @@
 ---
 title: 10 Cool OpenSSH tips and tricks
 description: 
-date: 2024-04-10
+date: 2024-10-04
 tags:
   - linux
   - openSSH

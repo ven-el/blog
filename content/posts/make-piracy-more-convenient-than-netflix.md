@@ -5,6 +5,7 @@ date: 2024-09-21
 # tldr: (optional)
 # draft: true/false (optional)
 tags: [piracy]
+author: d2
 toc: true
 ---
 
@@ -15,15 +16,15 @@ toc: true
 - has a built-in search option
 - searches 5 trackers for torrents
 
-![](/1.png)
+![](piracy/1.png)
 
-![](/2.jpg)
+![](piracy/2.jpg)
 
-![](/3.png)
+![](piracy/3.png)
 
 - click check for update
 
-![](/pic-selected-240921-1553-45.png)
+![](piracy/pic-selected-240921-1553-45.png)
 
 ## cons
 - limited trackers
@@ -33,14 +34,14 @@ toc: true
 - cloudflare solverr
 - support for proxy
 
-![](/prowlarr1.png)
+![](piracy/prowlarr1.png)
 
 # why you should signup for private trackers
 - some stuff you can only find on private trackers
 
-![](/ygg1.png)
+![](piracy/ygg1.png)
 
-![](/ygg2.png)
+![](piracy/ygg2.png)
 
 - ygg for francophone content
 - arapp2p for arab content
